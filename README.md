@@ -96,8 +96,7 @@ I'm a developer who enjoys building **web applications, APIs, and full-stack pro
 
 ---
 ## ChromeDino
-<iframe src="https://chromedino.com/embed/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+https://chromedino.com/embed/
 
 ## 🎯 Developer Journey
 
